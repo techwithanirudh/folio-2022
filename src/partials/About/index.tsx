@@ -29,7 +29,7 @@ function About() {
       <Container grid gridXL>
         <Row start={2} end={1}>
           <ContentBlock>
-            {intro.map(({ title }, i) => (
+            {intro.map(({ title, description }, i) => (
               <div key={i}>
                 <br />
                 <Heading key={`about.intro.${i}.title`}>{title}</Heading>
@@ -58,7 +58,7 @@ function About() {
       <Container grid gridXL>
         <Row start={2} end={1}>
           <ContentBlock>
-            {method.map((i) => (
+            {method.map((txt, i) => (
               <div key={i}>
                 <br />
                 <Trans
