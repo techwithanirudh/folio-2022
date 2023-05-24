@@ -57,8 +57,8 @@ function Contact() {
             <Heading className={emailClasses}>
               <div>
                 <div className={style.emailContainer}>
-                  <a className={style.email} href="mailto:giuliocollesei@gmail.com">
-                    giuliocollesei@gmail.com
+                  <a className={style.email} href="mailto:hello@techwithanirudh.com">
+                    hello@techwithanirudh.com
                   </a>
                 </div>
               </div>
@@ -76,7 +76,7 @@ function Contact() {
               <ul className={style.list}>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/giuliocollesei/"
+                    href="https://www.linkedin.com/in/anirudhsriramb/"
                     onMouseEnter={overHandler}
                     onMouseLeave={outHandler}
                     target="_blank"
@@ -86,7 +86,7 @@ function Contact() {
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com/giuliocollesei"
+                    href="https://twitter.com/AnirudhWith"
                     onMouseEnter={overHandler}
                     onMouseLeave={outHandler}
                     target="_blank"
@@ -96,12 +96,22 @@ function Contact() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Giulico"
+                    href="https://github.com/techwithanirudh"
                     onMouseEnter={overHandler}
                     onMouseLeave={outHandler}
                     target="_blank"
                   >
                     Github <ExternalArrow />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://youtube.com/@techwithanirudh"
+                    onMouseEnter={overHandler}
+                    onMouseLeave={outHandler}
+                    target="_blank"
+                  >
+                    Youtube <ExternalArrow />
                   </a>
                 </li>
               </ul>

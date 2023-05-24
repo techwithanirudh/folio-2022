@@ -21,7 +21,7 @@
       "l1": "I'm a Creative Technologist"
     },
     "p4": {
-      "l1": "They Call Me Giulio."
+      "l1": "They Call Me Anirudh."
     },
     "scroll_cta": {
       "line1": "Scroll down",
@@ -43,25 +43,26 @@
   },
   "about": {
     "intro": [
-      "I was born in <ImageVenice>Venice</ImageVenice> in september '86, today I live in Como and work at <ImageSketchin>Sketchin</ImageSketchin>, an advanced-design studio, as Creative Technologist.",
-      "<pre>Twenty/ys</pre>ago the first<br />version of<br /> TheyCallMeGiulio",
-      "The third version, in 2004, was the first to have the top-level domain <ImageTCMGTK>theycallmegiulio.tk</ImageTCMGTK>",
-      "Since then I have been designing and implementing virtual experiences. I have studied different programming languages and databases to cover the whole stack.",
-      "Today I think in javascript."
+      {
+        "title": "Early Passion for Lego",
+        "description": "From a young age, my fascination with Lego ignited my creativity. At the age of 4, I constructed a minion using just a few Lego pieces. My passion for building and programming with Lego grew further when my dad gifted me a Lego Classic kit, followed by a Lego Boost kit from my grandpa. With the Boost kit, I delved into programming motors and sensors, enabling me to create moving robots through block programming. To share my Lego creations with others, I even started a YouTube channel called Anirudh's Toys Review."
+      },
+      {
+        "title": "Exploring Advanced Robotics and Programming",
+        "description": "My journey into advanced robotics began with the discovery of the Lego Mindstorms kit. With Mindstorms, I could build intricate robots and program them using Python with EV3Dev. This introduction to text-based programming and AI sparked my curiosity, and I've since completed over 100 projects utilizing technologies like OpenCV, TensorFlow, GPT, and Azure AI. Demonstrating my expertise, I became the youngest individual to achieve certifications in Microsoft Powerplatform and Azure AI. Additionally, I've explored no-code/low-code app development, web apps, and other technologies like Arduino, Raspberry Pi, and Linux."
+      },
+      {
+        "title": "Real-World Collaborations and Research",
+        "description": "I had the incredible opportunity to collaborate with Bosch, a global technology and services provider, on an AI-based autonomous car project. This experience allowed me to apply my skills and knowledge to tackle real-world challenges and make a meaningful impact. Furthermore, I authored a research paper on face swapping for autonomous cars, delving into complex issues such as privacy and AI bias in relation to autonomous vehicles."
+      },
+      {
+        "title": "Sharing and Engaging with the Community",
+        "description": "During my leisure time, I enjoy listening to electronic music and showcasing my creations on my personal website and various social media platforms. I actively engage with like-minded individuals on Replit, Twitter, and LinkedIn, where I share my thoughts and ideas."
+      }
     ],
-    "clan_title": ["Numbers", "One"],
-    "clan": [
-      "It is the name of a clan of players of which I was the co-founder. A community whose main interest was a passion for <ImageBW>Starcraft: Brood War</ImageBW>.",
-      "At that time (it was the early 2000s) I began to combine fun for this game and passion for my work, practicing building the first <ImageNO2>Numbers One</ImageNO2> website.",
-      "A year later I built a <ImageNO3>web 2.0 portal</ImageNO3> with features such as logins, news, interviews, uploads and sharing of game replays. Visual design with Photoshop, frontend with HTML, CSS and Javascript. Custom backend with PHP Codeigniter and MySql. It still looks like a modern stack.",
-      "Today, as then, I enrich my work with constant training, updating, sharing and curiosity."
-    ],
-    "method_title": "Method<br /><pre>&</pre>Acknowledgements",
+    "method_title": "Certifications<br /><pre>&</pre>Accomplishments",
     "method": [
-      "Creating a successful product is not just about having beautiful aesthetics and impressive animations.<br />The effectiveness and usability of a project depends on the synergies formed between designer and developer.",
-      "I emphasize Lean and Agile<br />methodologies",
-      "I promote continuous, attitudinal<br />and methodical improvement<br />for myself and others",
-      "If international recognition comes on top of that, it is a greater satisfaction."
+      "Content should but put here 50 / 50"
     ]
   },
   "contact": {
