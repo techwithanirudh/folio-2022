@@ -38,6 +38,12 @@
       }
     }
   }
+
+  &.gridXL {
+    @media (--md-l) {
+      grid-template-columns: 3fr;
+    }
+  }
 }
 
 .cell-start-1 {

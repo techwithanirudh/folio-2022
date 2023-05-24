@@ -10,6 +10,7 @@ import cn from 'classnames'
 type Props = {
   small?: boolean
   grid?: boolean
+  gridXL?: boolean
   outerRightOnMobile?: boolean
   withoutMenu?: boolean
   children: ReactElement | ReactElement[]
@@ -27,6 +28,7 @@ const Container = ({
   children,
   small,
   grid,
+  gridXL,
   className,
   withoutMenu,
   outerRightOnMobile
@@ -34,6 +36,7 @@ const Container = ({
   const classes = cn(style.root, className, {
     [style.small]: small,
     [style.grid]: grid,
+    [style.gridXL]: gridXL,
     [style.withoutMenu]: withoutMenu,
     [style.outerRightOnMobile]: outerRightOnMobile
   })

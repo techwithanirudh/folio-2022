@@ -26,10 +26,10 @@ function About() {
 
   return (
     <Section name="about" className={style.root}>
-      <Container grid>
+      <Container grid gridXL>
         <Row start={2} end={1}>
           <ContentBlock>
-            {intro.map(({ title, description }, i) => (
+            {intro.map(({ title }, i) => (
               <div key={i}>
                 <br />
                 <Heading key={`about.intro.${i}.title`}>{title}</Heading>
@@ -46,7 +46,7 @@ function About() {
           </ContentBlock>
         </Row>
       </Container>
-      <Container grid outerRightOnMobile>
+      <Container grid gridXL outerRightOnMobile>
         <Row start={1} end={3}>
           <div className={style.section}>
             <Heading key={methodTitle}>
@@ -55,10 +55,10 @@ function About() {
           </div>
         </Row>
       </Container>
-      <Container grid>
+      <Container grid gridXL>
         <Row start={2} end={1}>
-          <ContentBlock key={intro[2]}>
-            {method.map((txt, i) => (
+          <ContentBlock>
+            {method.map((i) => (
               <div key={i}>
                 <br />
                 <Trans
@@ -74,7 +74,7 @@ function About() {
           </ContentBlock>
         </Row>
       </Container>
-      <Container grid>
+      <Container grid gridXL>
         <Row start={1} end={3}>
           <ContentBlock>
             <List>
