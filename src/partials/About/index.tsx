@@ -74,19 +74,6 @@ function About() {
           </ContentBlock>
         </Row>
       </Container>
-      <Container grid gridXL>
-        <Row start={1} end={3}>
-          <ContentBlock>
-            <List>
-              <ListItem end="World's youngest">Microsoft Azure AI Certified</ListItem>
-              <ListItem end="India's youngest">Microsoft PL-900 Certified</ListItem>
-              <ListItem end="By Intel">AI 4 Youth</ListItem>
-              {/* <ListItem end="x3">iF Design Award</ListItem>
-              <ListItem end="x8">Other</ListItem> */}
-            </List>
-          </ContentBlock>
-        </Row>
-      </Container>
     </Section>
   )
 }

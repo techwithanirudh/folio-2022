@@ -30,15 +30,14 @@
   },
   "portfolio": {
     "intro": [
-      "I craft",
-      "interactive digital<br />experiences.",
-      "From information architecture, to researching UI elements, to maniacally curating interactions.",
-      "Plus, my first love, program optimization."
+      "I create",
+      "engaging digital<br />experiences.",
+      "I orchestrate the entire digital ecosystem – masterfully handling both the backend and frontend. I delve deep into researching and implementing cutting-edge UI elements to create immersive user experiences. With meticulous attention to detail, I curate interactions that leave a lasting impact on every user's journey."
     ],
     "portfolio": [
       "Projects",
-      "I have collaborated with companies such as: <strong>Nexi</strong>, <strong>Sky</strong>, <strong>Fastweb</strong>, <strong>IBL</strong>, <strong>Generali</strong>, <strong>Corner</strong>, <strong>AMDL Circle</strong>.<br /><br />",
-      "Here are some of my most relevant projects."
+      "I have collaborated with companies such as: <strong>Bosch</strong>, <strong>Intel</strong>, <strong>ATAL Innovation Mission</strong> and <strong>Spoke</strong>.<br /><br />",
+      "The below are some of my most relevant projects."
     ]
   },
   "about": {
@@ -62,7 +61,7 @@
     ],
     "method_title": "Certifications<br /><pre>&</pre>Accomplishments",
     "method": [
-      "Content should but put here 50 / 50"
+      "Embracing a path of relentless collaboration with distinguished organizations, I have continuously pushed the boundaries of innovation, resulting in remarkable milestones that define my journey. Among these significant achievements, my standout collaboration with Bosch for a groundbreaking research paper (osf.io/mtfpy) centered around \"Solving Autonomous Driving Privacy Challenges using Face Swapping AI.\", while my distinction as the youngest achiever of certifications in Microsoft Powerplatform and Azure AI testified to my unwavering dedication to mastering cutting-edge technologies.<br /><br/>Furthermore, my participation in the prestigious AI 4 Youth program by Intel further solidified my expertise, culminating in the successful development of a pioneering AI and ML project, reflective of my boundless enthusiasm for pushing the boundaries of technological progress and leaving an indelible mark on the ever-evolving landscape of innovation."
     ]
   },
   "contact": {
